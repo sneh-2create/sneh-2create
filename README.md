@@ -34,7 +34,7 @@ Languages & Tools:
 
 ## 🌟 **Featured Projects**
 
-| 💍 | **Nexus** | Custom jewelry design platform |
+| 💍 |**Nexus** |Custom jewelry design platform |
 |----|-----------|-------------------------------|
 | 📚 | **ReBooked** | Digital bookstore for swapping, selling, and sharing old books |
 | 🤖 | **Taamer** | AI tool comparison platform—find the best AI solution for your task! |
